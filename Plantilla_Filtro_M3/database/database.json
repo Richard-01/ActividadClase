@@ -1,0 +1,153 @@
+{
+  "companies": [
+    {
+      "id": "2034",
+      "email": "admin@riwi.io",
+      "nameCompany": "Riwi",
+      "imageCompany": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "2035",
+      "email": "admin@google.com",
+      "nameCompany": "Google",
+      "imageCompany": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "a079",
+      "email": "rich@gmail.com",
+      "nameCompany": "Amazon",
+      "imageCompany": "https://abellagraphicdesign.com/wp-content/uploads/2023/02/DESTACADA_0014_Fondo-copia-6.jpg",
+      "nit": "123456789"
+    },
+    {
+      "id": "b69d",
+      "email": "richard@gmail.com",
+      "nameCompany": "Meta",
+      "imageCompany": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Meta_Inc._logo.jpg",
+      "nit": "0123456"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "87c8",
+      "title": "Desarrollador Backend",
+      "experience": "5",
+      "salary": "12'000.000",
+      "location": "Medellin",
+      "modality": "Remote",
+      "description": "Pruebaaaaa",
+      "publicationDate": "13/2/2024, 8:43:25 a. m.",
+      "companyId": "b69d"
+    },
+    {
+      "id": "4e57",
+      "title": "DevOps",
+      "experience": "6",
+      "salary": "15'000.000",
+      "location": "Medellin",
+      "modality": "Remote",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+      "publicationDate": "13/2/2024, 8:45:06 a. m.",
+      "companyId": "b69d"
+    },
+    {
+      "title": "Middle Developer Backend",
+      "experience": "4",
+      "salary": "7'500.000",
+      "location": "Medellin",
+      "modality": "In person",
+      "description": "Prueba 3 - esto se acabo de editar a las 9\n",
+      "companyId": "b69d",
+      "id": "fed8"
+    },
+    {
+      "title": "Jr Developer Frontend",
+      "experience": "1",
+      "salary": "2'500.000",
+      "location": "Bogota",
+      "modality": "In person",
+      "description": "Agrego a las 9 se edito a las 9:05",
+      "companyId": "b69d",
+      "id": "4e08"
+    },
+    {
+      "id": "fda3",
+      "title": "Designer",
+      "experience": "3",
+      "salary": "4'500.000",
+      "location": "Bogota",
+      "modality": "In person",
+      "description": "mas y mas pruebas",
+      "publicationDate": "13/2/2024, 9:06:20 a. m.",
+      "companyId": "b69d"
+    },
+    {
+      "id": "b519",
+      "title": "Designer",
+      "experience": "2",
+      "salary": "2'500.000",
+      "location": "Cali",
+      "modality": "In person",
+      "description": "Otro usuario",
+      "publicationDate": "13/2/2024, 9:19:55 a. m.",
+      "companyId": "a079"
+    },
+    {
+      "id": "58f3",
+      "title": "Desarrollador Backend",
+      "experience": "3",
+      "salary": "12'500.000",
+      "location": "Cali",
+      "modality": "Remote",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "publicationDate": "13/2/2024, 10:34:36 a. m.",
+      "companyId": "a079"
+    },
+    {
+      "id": "b4e5",
+      "title": "Desarrollador Frontend",
+      "experience": "3",
+      "salary": "10'500.000",
+      "location": "Barranquilla",
+      "modality": "Remote",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "publicationDate": "13/2/2024, 10:35:35 a. m.",
+      "companyId": "a079"
+    },
+    {
+      "id": "7e91",
+      "title": "Desarrollador Frontend",
+      "experience": "5",
+      "salary": "15'500.000",
+      "location": "Barranquilla",
+      "modality": "Remote",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "publicationDate": "13/2/2024, 10:35:48 a. m.",
+      "companyId": "a079"
+    },
+    {
+      "id": "62f7",
+      "title": "DevOps",
+      "experience": "3",
+      "salary": "13'000.000",
+      "location": "Cali",
+      "modality": "Remote",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "publicationDate": "13/2/2024, 10:36:08 a. m.",
+      "companyId": "a079"
+    },
+    {
+      "id": "eca5",
+      "title": "Desarrollador Backend",
+      "experience": "2",
+      "salary": "5'000.000",
+      "location": "Medellin",
+      "modality": "Remote",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+      "publicationDate": "13/2/2024, 10:38:51 a. m.",
+      "companyId": "a079"
+    }
+  ]
+}
